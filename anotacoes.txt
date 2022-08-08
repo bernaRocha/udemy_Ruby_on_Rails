@@ -1,0 +1,11 @@
+IRB
+    - prompt do Ruby
+Pry
+    - prompt do Ruby com sysntax highlighting > pry para iniciar o prompt
+
+puts significa put string
+
+Coerção / Casting
+    get.to_i to integer
+    x.to_f   to float
+    x.to_s   to string  
